@@ -1,7 +1,7 @@
 # mouse_switcher
-Switch between a left and right handed mouse configuration easily
+Switch between a left and right handed mouse configuration easily.
 
-This program intercepts all events from your mouse and optionally swaps the left and rigth buttons before sending the event to the system. The swapping of the buttons can be enabled/disabled by pressing an additional mouse button.
+This program intercepts all events from your mouse and optionally swaps the left and right buttons before sending the event to the system. The swapping of the buttons can be enabled/disabled by pressing an additional mouse button.
 
 ## Configuration
 The button to change the layout can be configured by editing the source code (redefine ``TOGGLE_BUTTON``).
